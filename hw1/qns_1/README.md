@@ -1,3 +1,11 @@
+# Commands
+
+To run the code for the warmup homework, from the root directory of this repo, do
+
+```
+python -m hw1.qns_1.warmup
+```
+
 # Results
 
 The following image illustrates the empirical distribution
